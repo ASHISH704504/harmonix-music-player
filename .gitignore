@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Runtime / user data
+library.json
+test_library.json
+test_sample.wav
+
+# OS junk
+Thumbs.db
+.DS_Store
