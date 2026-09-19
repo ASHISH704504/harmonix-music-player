@@ -1,6 +1,6 @@
 # [ HARMONIX // CYBER_DECK_V2 ]
 
-Gen-Z dark minimalistic retro-fusion **desktop music player** built with Python (CustomTkinter + pygame), plus a **browser-based web player** in `web_app/`.
+Gen-Z dark minimalistic retro-fusion **desktop music player** built with Python (CustomTkinter + pygame).
 
 ## Features
 
@@ -25,10 +25,6 @@ Regenerate the built-in synth demo tracks:
 ```
 python create_demo_tracks.py
 ```
-
-## Web version
-
-See `web_app/README.md` — a Flask + vanilla-JS single-page player serving the same demo tracks.
 
 ## Tests
 
